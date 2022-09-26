@@ -1,7 +1,5 @@
 # EC8_N1_2_Bimestre
-
-Com base nessa equação, e considerando que faça o
-que se pede nos itens a seguir:
+![Alt text](Produtorio.png?raw=true "Arquitetura")
 Escreva uma API em NodeJS que receba os parâmetros :
 <br />
 • limite inferior m -> parâmetro: inferior
