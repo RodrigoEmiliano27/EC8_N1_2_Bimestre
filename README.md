@@ -3,9 +3,14 @@
 Com base nessa equação, e considerando que faça o
 que se pede nos itens a seguir:
 Escreva uma API em NodeJS que receba os parâmetros :
-• limite inferior m
-• limite superior n
-• opção de método de execução: iterativa ou recursiva
+<br />
+• limite inferior m -> parâmetro: inferior
+<br />
+• limite superior n  -> parâmetro: superior
+<br />
+• opção de método de execução: iterativa ou recursiva -> parâmetro: opcao
+<br />
+
 
 exemplos:
 
